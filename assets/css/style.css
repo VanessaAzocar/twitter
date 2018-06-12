@@ -1,0 +1,30 @@
+body {
+	margin: 0 auto;
+	background-color: #FAFAFA;
+}
+
+.firstsection {
+  text-align: center;
+}
+
+.secondsection {
+ width: 100%;
+ background-color: rgb(16, 190, 243);
+ 
+}
+.fondoTwitter img{
+  width: 70%;
+  text-align: center;
+}
+.parteder{
+   height: 300px;
+}
+.txt{
+  resize: none;
+    width: 650px;
+    height:250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.comentarios{
+  text-align: center;
+}
